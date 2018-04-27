@@ -1,0 +1,2 @@
+# swfb
+swfb = SchoolWiFiBypass
